@@ -8,4 +8,8 @@
 
 ![Cloud Computing Models]("./../../Assets/Cloud-Computing-Models.png")
 
+## Cloud Deploymnt Models
+
+![Cloud Computing Models]("./../../Assets/Cloud-Deployment-Models.png")
+
 
