@@ -6,10 +6,8 @@
 
 ## Cloud Computing Models
 
-![Cloud Computing Models]("./../../Assets/Cloud-Computing-Models.png")
+![Cloud Computing Models](./../Images/Cloud-Computing-Models.png)
 
 ## Cloud Deploymnt Models
 
-![Cloud Computing Models]("./../../Assets/Cloud-Deployment-Models.png")
-
-
+![Cloud Deployment Models](./../Images/Cloud-Deployment-Models.png)
