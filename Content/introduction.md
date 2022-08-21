@@ -1,13 +1,21 @@
 # Introduction to Cloud Computing
 
 - On-demand delivery of IT resources and applications through the internet with pay-as-you-go pricing
-- On premisis deployment is also called private cloud deployment.
-- Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data(users in most cases).
 
-## Cloud Computing Models
+
+## AWS Cloud Computing Models
 
 ![Cloud Computing Models](./../Images/Cloud-Computing-Models.png)
 
-## Cloud Deploymnt Models
+## AWS Cloud Deploymnt Models
 
 ![Cloud Deployment Models](./../Images/Cloud-Deployment-Models.png)
+
+## Benifits of Cloud Computing
+
+- Trade Upfrnt expense for variable expense.
+- Stop spending money to run and maintain data centers.
+- Stop guessing capacity.
+- Increase speed and agility.
+- Go global in minutes.
+
