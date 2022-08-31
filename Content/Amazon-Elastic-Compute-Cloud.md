@@ -5,6 +5,11 @@
 - EC2 instances are highly scalableand we can also scale it horizontally using Amazon EC2 autoscaling groups.
 - You don’t pay for stopped or terminated instances because there is no computation power used by them but EBS volumes attached to instances continue to retain information and accrue charges.
 
+
+![EC2 Console](../Images/EC2-Console.png)
+
+
+
 ## Types of EC2 Instances
 
 ### General Purpose Instances
