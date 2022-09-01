@@ -19,3 +19,6 @@
 - Increase speed and agility.
 - Go global in minutes.
 
+## AWS Console Glance
+
+![AWS_CONSOLE](../Images/AWS-Console.png)
