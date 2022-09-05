@@ -6,3 +6,17 @@
 - This diagram depicts that there is ony one point of contact for ordering tier and when new instances are added to production tier it only need to inform to ELB not to all the Ordering tier devices not to all ordering tier devices.
 
 ![ELB](../Images/ELB.png)
+
+## Types of Load Balancer
+
+### Application Load Balancer
+
+![Application Load balancer](../Images/Application-Load-Balancer.png)
+
+### Gateway Load Balancer
+
+![Gateway Load balancer](./../Images/Gateway-Load-Balancer.png)
+
+### Network Load Balancer
+
+![Network Load balancer](../Images/Network-Load-Balancer.png)
