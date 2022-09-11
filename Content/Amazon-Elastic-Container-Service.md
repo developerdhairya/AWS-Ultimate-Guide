@@ -5,3 +5,4 @@
 - With Amazon ECS, you can use API calls to launch and stop Docker-enabled applications.
 - AWS supports the use of both open-source Docker Community Edition and subscription-based Docker Enterprise Edition.
 
+![ECS](./../Images/ECS.png)
