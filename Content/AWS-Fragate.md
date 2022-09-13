@@ -8,3 +8,5 @@
 - When using AWS Fargate, you do not need to provision or manage servers. AWS Fargate manages your server infrastructure for you.
 - Fargate prices are per second with no upfront charge.
 - AWS Fargate will bill you based on the amount of vCPU, RAM, OS, CPU architecture, and storage that your containerized apps consume while running on EKS or ECS.
+
+![Fragate](../Images/Fragate.png)
