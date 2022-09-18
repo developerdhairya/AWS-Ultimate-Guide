@@ -8,3 +8,11 @@
 - Many services like AWS ELB are regional constructs.When you plan for high avalability the regionally scoped services are already checked.
 
 ![AWS Region & Availability Zones](./AWS-Region-And-Availability%20Zones.md)
+
+## Points to remember while selecting a region
+
+- Government Regulations
+- Proximity to Users.
+- Pricing
+- Available Services in the region.
+- When determining the right Region for your services, data, and applications, consider the following four business factors.
