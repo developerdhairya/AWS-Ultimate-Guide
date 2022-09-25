@@ -11,3 +11,5 @@
 - However as the VPC is open to internet, the public traffic can cause traffic congestion and result in latency.The solution to this is AWS DirectConnect
 - AWS Direct Connect allows you to establish a direct fiber connection between your data center and VPC.
 - There are no additional charges for creating and using VPC aside for Data Transfer charges of service.
+
+![VPC](../Images/VPC.png)
