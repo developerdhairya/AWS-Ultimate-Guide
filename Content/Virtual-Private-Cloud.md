@@ -13,3 +13,10 @@
 - There are no additional charges for creating and using VPC aside for Data Transfer charges of service.
 
 ![VPC](../Images/VPC.png)
+
+---
+---
+
+# Components of VPC
+
+![VPC Components](../Images/VPC-Components.png)
