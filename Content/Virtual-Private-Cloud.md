@@ -19,4 +19,13 @@
 
 # Components of VPC
 
-![VPC Components](../Images/VPC-Components.png)
+- ![VPC Components](../Images/VPC-Components.png)
+
+---
+
+## NAT
+
+-> NAT stands for network address translation.
+-> It's a way to map multiple local private addresses to a public one before transferring the information.
+-> Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
+-> It is paid in AWS VPC
