@@ -14,7 +14,7 @@
 
 ![VPC](../Images/VPC.png)
 
----
+
 ---
 
 # Components of VPC
@@ -25,7 +25,19 @@
 
 ## NAT
 
--> NAT stands for network address translation.
--> It's a way to map multiple local private addresses to a public one before transferring the information.
--> Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
--> It is paid in AWS VPC
+- NAT stands for network address translation.
+- It's a way to map multiple local private addresses to a public one before transferring the information.
+- Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
+- It is paid in AWS VPC
+
+---
+
+## Subnets in VPC
+
+- Subnets monitor the traffic that comes if IGW into VPC.
+- Every packet that passes through subnet is checked through Network Access Control List(Network ACL).
+- We can set rules for both inbound and outboubount traffic of subnet.
+- Network ACL allows all inbound and outbound traffic by default.
+- Network ACLs perform stateless packet filtering ,meaning any change applied to an incoming rule isn’t automatically applied to an outgoing rule.
+- If a request comes through port 80, it should be explicitly indicated that its outgoing response would be the same port 80.
+
