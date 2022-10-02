@@ -41,3 +41,4 @@
 - Network ACLs perform stateless packet filtering ,meaning any change applied to an incoming rule isn’t automatically applied to an outgoing rule.
 - If a request comes through port 80, it should be explicitly indicated that its outgoing response would be the same port 80.
 
+- ![Subnet Types](../Images/Subnet-Types.png)
