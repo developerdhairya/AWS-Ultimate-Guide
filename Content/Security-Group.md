@@ -5,3 +5,5 @@
 - Security groups perform stateful packet filtering which means any changes which are applied to an incoming rule is automatically applied to a rule which is outgoing.
 - If the incoming port of a request is 80, the outgoing response of that request is also 80 (it is opened automatically) by default.
 - The security group allows the response to proceed, regardless of inbound security group rules.
+
+![Security Groups](../Images/Security-Groups.png)
