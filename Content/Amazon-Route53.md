@@ -5,3 +5,9 @@
 - It also manages DNS records for domain names.
 - You can buy new domains, transfer DNS records for existing domain names managed by other domain registrars
 - This enables you to manage all your domain names in a single location.
+
+---
+
+# Route53 With CloudFront
+
+![Route53 With CloudFront](../Images/Route53.png)
