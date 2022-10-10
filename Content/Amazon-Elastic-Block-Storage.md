@@ -9,3 +9,5 @@
 - EBS is volume stores data in a single availability zones.
 
 ![EBS](../Images/EBS.png)
+
+![EBS-1](../Images/EBS1.png)
