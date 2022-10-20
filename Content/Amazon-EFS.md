@@ -5,3 +5,5 @@
 - In this ,a storage server uses block storage with a local file system to organize files. Clients access data through file paths.
 - On-premises servers can access Amazon EFS using AWS Direct Connect.
 - Study the below comparison thoroughly.
+
+![EFS vs EBS](../Images/EFS-vs-EBS.png)
