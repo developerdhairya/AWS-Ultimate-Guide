@@ -9,3 +9,9 @@
 
 ![AWS Organisations](../Images/AWS-Organisations.png)
 
+---
+
+# Organisational Unit
+
+- In AWS Organizations, you can group accounts into organizational units (OUs) to make it easier to manage accounts with similar business or security requirements.
+- When you apply a policy to an OU, all the accounts in the OU automatically inherit the permissions specified in the policy. -
