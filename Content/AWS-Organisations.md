@@ -6,3 +6,6 @@
 - SCPs offer central control over the maximum available permissions for all accounts in your organization.
 - Allows you to restrict the individual API actions that users and roles in each member account can access.
 - Consolidated billing is another feature of AWS Organizations.
+
+![AWS Organisations](../Images/AWS-Organisations.png)
+
