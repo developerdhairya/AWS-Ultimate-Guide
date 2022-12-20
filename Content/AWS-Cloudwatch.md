@@ -6,4 +6,6 @@
 - Actions can be like shutting down the instance send notification through SNS etc.
 - Study the below diagram very carefully.
 
+![Cloudwatch](../Images/CloudWatch.png)
+
 ![Dashboard](../Images/Cloudwatch-Dashboard.png)
