@@ -5,3 +5,5 @@
 - With CloudWatch, you can create alarms that automatically perform actions if the value of your metric has gone above or below a predefined threshold. 
 - Actions can be like shutting down the instance send notification through SNS etc.
 - Study the below diagram very carefully.
+
+![Dashboard](../Images/Cloudwatch-Dashboard.png)
