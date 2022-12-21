@@ -6,3 +6,5 @@
 - Events are typically updated in CloudTrail within 15 minutes after an API call.
 - You can filter the CloudTrail events on variuos parameters.
 - CloudTrail Insights is an optional feature within CloudTrail that allows CloudTrail to automatically detect unusual API activities in your AWS account.
+
+![CloudTrail](../Images/Cloudtrail.png)
