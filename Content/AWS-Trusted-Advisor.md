@@ -7,3 +7,5 @@
   - You can use AWS Trusted Advisor to assist you while you are creating new workflows and developing new applications.
   - You can use it while you are making ongoing improvements to existing applications and resources.
   - You can review the security of your Amazon S3 buckets by checking for open access permissions.
+
+![TrustedAdvisor](../Images/AWS%20Trusted%20Advisor.png)
