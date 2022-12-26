@@ -21,3 +21,8 @@
 
 ![IAM Policies](../Images/IAM2.png)
 
+## IAM Groups
+
+- IAM group is a collection of IAM users.
+- When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
+- Assigning IAM policies at the group level also makes it easier to adjust permissions when an employee transfers to a different job.
