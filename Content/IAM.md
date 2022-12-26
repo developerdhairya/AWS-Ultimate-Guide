@@ -26,3 +26,11 @@
 - IAM group is a collection of IAM users.
 - When you assign an IAM policy to a group, all users in the group are granted permissions specified by the policy.
 - Assigning IAM policies at the group level also makes it easier to adjust permissions when an employee transfers to a different job.
+
+## IAM Role
+
+- An IAM role is an identity that you can assume to gain temporary access to permissions. 
+- Before an IAM user, application, or service can assume an IAM role, they must be granted permissions to switch to the role. 
+- When someone assumes an IAM role, they abandon all previous permissions that they had under a previous role and assume the permissions of the new role.
+- You can also enable MFA(Multi Factor Authentication) for the root user and IAM users.
+
