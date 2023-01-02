@@ -1,4 +1,4 @@
-# Amazon EFS
+# Amazon Elastic File System(EFS)
 
 - Amazon EFS is a scalable file system used with AWS Cloud services and on-premises resources.
 - Compared to block storage and object storage, file storage is ideal for use cases in which a large number of services and resources need to access the same data at the same time.
