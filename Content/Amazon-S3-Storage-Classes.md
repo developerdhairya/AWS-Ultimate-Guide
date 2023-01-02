@@ -35,7 +35,7 @@
 - Once locked the policy can’t be changed.
 - We have 3 types of AWS S3 Glacier:
   - Aamzon S3 Glacier Instant Retrieval.(Same availability as S3 standard)
-  -Amazon S3 Glacier Flexible Retrieval.(few minutes to few hours)
+  - Amazon S3 Glacier Flexible Retrieval.(few minutes to few hours)
   - Amazon S3 Glacier Deep Archive(within 12 hours)
 
 ### Amazon S3 outpost
