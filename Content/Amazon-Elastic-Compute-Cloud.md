@@ -42,6 +42,32 @@
 - Ideal for distributed file systems, data warehousing applications, and high-frequency online transaction processing (OLTP) systems
 
 
+
+## EC2 Pricing
+1. **On Demand Instances**
+- On-Demand Instances are ideal for short-term, irregularor unpredicatable workloads that cannot be interrupted.
+- The instances run continuously until you stop them, and you pay for only the compute time you use.
+- Not recommended for workloads that last a year or longer because these workloads can experience greater cost savings using Reserved Instances.
+
+2. **Savings Plan**
+- Amazon EC2 Savings Plans enable you to reduce your compute costs by committing to a consistent amount of compute usage for a 1-year or 3-year term.This term commitment results in savings of up to 72% over On-Demand costs.
+
+3. **Reserved Instance**
+- Reserved Instances are a billing discount applied to the use of On-Demand Instances in your account. You can purchase Standard Reserved and Convertible Reserved Instances for a 1-year or 3-year term, and Scheduled Reserved Instances for a 1-year term.
+- At the end of a term you can continue using the Amazon EC2 instance without interruption and are charged On-Demand rates until you purchase a new Reserved Instance that matches the instance attributes (instance type, Region, tenancy, and platform).
+
+4. **Spot Instance**
+- Spot Instances are ideal for workloads with flexible start and end times and can  withstand interruptions.
+- They allow you to save upto 90% of on-demand price.
+- AWS can reclaim these instance any time they need it giving you a 2-minute warning to finish work and save state.
+
+5. **Dedicated Host**
+- Dedicated Hosts are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use.
+- You can use your existing per-socket, per-core, or per-VM software licenses to help maintain license compliance
+- You can purchase On-Demand Dedicated Hosts and Dedicated Hosts Reservations.
+- Of all the Amazon EC2 options that were covered, Dedicated Hosts are the most expensive.
+
+
 ## Scaling Amazon EC2 Instances
 
 - Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in.
