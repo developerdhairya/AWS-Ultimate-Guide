@@ -6,14 +6,13 @@ I am making this repo so that you don't have to go and search topics at differen
 
 **NOTE**
 
-The content I am providing is not owned by me in any form. I am just integrating everything from different documentation/tutorials and serving it here.
+The content I am providing is not compeletely owned by me. I am just integrating everything from different documentation/tutorials and serving it here.
 
 ---
 
 # Get Started
 
--   To get started, go to the main and check the readme file.
--   The readme file of the main branch is the main file you have to follow along in the journey.
+- To get started, go to Index.md file and follow along.
 
 
-**PS\:** Please don't forget to star the repo as it motivates me to do more for the community. :star:. Happy Learning :sunglasses:
+**PS\:** Please don't forget to star the repo as it motivates me to do more for the open source community. :star:. Happy Learning :sunglasses:
