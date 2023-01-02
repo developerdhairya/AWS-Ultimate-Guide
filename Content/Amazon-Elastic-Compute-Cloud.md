@@ -44,13 +44,13 @@
 
 ## Scaling Amazon EC2 Instances
 
--> Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in.
--> There might be peek hours when application  is very high and unable to meet user requirements lowering Availability. Also there might be time when user activity is very low and resources remain idle and you still pay for them.
--> Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand.
--> Within Amazon EC2 Auto Scaling, you can use two approaches `dynamic scaling` and `predictive scaling`.
--> Predictive Scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand whereas Dynamic Scaling scales up and scale out according to changing demand.
--> To scale faster, you can use dynamic scaling and predictive scaling together.
--> When you create an Auto Scaling group, we get option to setup minimum capacity,desired capacity and maximim capacity.
--> Minimum Capacity is the number of Amazon EC2 instances that should always remain operational.
--> If you do not specify the desired capacity of Auto-Scaling group,the desired capacity defaults to your minimum capacity.
-->  Maximum Capacity caps the maximum instances to which auto-scaling group can upscale to.
+- Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in.
+- There might be peek hours when application  is very high and unable to meet user requirements lowering Availability. Also there might be time when user activity is very low and resources remain idle and you still pay for them.
+- Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand.
+- Within Amazon EC2 Auto Scaling, you can use two approaches `dynamic scaling` and `predictive scaling`.
+- Predictive Scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand whereas Dynamic Scaling scales up and scale out according to changing demand.
+- To scale faster, you can use dynamic scaling and predictive scaling together.
+- When you create an Auto Scaling group, we get option to setup minimum capacity,desired capacity and maximim capacity.
+- Minimum Capacity is the number of Amazon EC2 instances that should always remain operational.
+- If you do not specify the desired capacity of Auto-Scaling group,the desired capacity defaults to your minimum capacity.
+-  Maximum Capacity caps the maximum instances to which auto-scaling group can upscale to.
