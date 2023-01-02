@@ -1,6 +1,6 @@
-# AWS Cloud Practitioner Guide
+# AWS Ultimate Guide for Beginers
 
-This is going to be the comprehensive guide learn AWS from very basics to advanced level. I will try to share each and every required concepts so it can also benefit others.
+This is going to be the comprehensive guide learn AWS from very basics to intermediate-level. I will try to share each and every required concepts so it can also benefit others.
 
 I am making this repo so that you don't have to go and search topics at different and can get almost every topic here only.
 
